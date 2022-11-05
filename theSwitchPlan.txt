@@ -4,3 +4,4 @@ Plan for the Switch
 - Learn how to use git/github
 - Create an e-commerce site
 - Collab with more experts
+- Learn some frameworks
